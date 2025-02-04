@@ -13,11 +13,5 @@ Skills: SQL / FLASK / PYTHON / REACT / JS / HTML5 / SCSS / BOOTSTRAP
 - 📫 How to reach me: neprcm@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Neptali-Ricardo)  
-&nbsp;  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/neptalicastejon/)  
-&nbsp;  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zproyec.myportfolio.com/work)  
-&nbsp;  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma' height='40'>](https://www.figma.com/files/team/1302886490568169063/all-projects)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Neptali-Ricardo)  &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/neptalicastejon/)  &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zproyec.myportfolio.com/work)  &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma' height='40'>](https://www.figma.com/files/team/1302886490568169063/all-projects)
 
