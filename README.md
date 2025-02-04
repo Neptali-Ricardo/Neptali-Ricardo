@@ -11,7 +11,7 @@ I am passionate about design and web development. For me, code is not just funct
 👯 Looking to collaborate on exciting design and development projects.
 💬 Ask me about web layout, React, and graphic design.
 📫 Contact me: neprcm@gmail.com
-💼 Connect with me on LinkedIn
+💼 LinkedIn (https://www.linkedin.com/in/nepta/)
 
 <!--
 **Neptali-Ricardo/Neptali-Ricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
