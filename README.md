@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 Hi! I'm Neptali Castejón
 
 💻 Full Stack Developer | 🎨 Web Layout Specialist & Graphic Designer
