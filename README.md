@@ -4,7 +4,7 @@
 
 I am passionate about design and web development. For me, code is not just functionality; it's a way to create experiences. With a background in graphic design and training in Full Stack development, I combine creativity and logic to build attractive, intuitive, and efficient interfaces.
 
-Skills: SQL / FLASK / PYTHON / REACT / JS / HTML5 / SCSS / BOOTSTRAP
+Skills: PostgreSQL / Flask / Python / React / JavaScript / jQuery / HTML5 / SCSS / SASS / Bootstrap / APIs / UX/UI / Figma / Git / GitHub / SCRUM / Jira / AzureDevOps / SourceTree / Unit testing / VisualStudioCode / IntelliJ IDEA / Eclipse / Plastic SCM / WordPress / PrestaShop
 
 - 🔭 I’m currently working on web development and UI/UX design projects. 
 - 🌱 I’m currently learning new technologies to enhance my skills. 
